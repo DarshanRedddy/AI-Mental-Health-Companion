@@ -40,7 +40,7 @@ API key (if using OpenAI/HuggingFace)
 
 Installation
 # Clone the repository
-git clone https://github.com/yourusername/AI-Mental-Health-Companion.git
+git clone https://https://github.com/DarshanRedddy/AI-Mental-Health-Companion
 
 # Navigate into the project directory
 cd AI-Mental-Health-Companion
